@@ -11,3 +11,4 @@ int main(){
     cout<<hour<<':'<<minute<<':'<<second<<endl;
 
 }
+//2.45.
